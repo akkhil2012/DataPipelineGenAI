@@ -1,0 +1,6 @@
+conversation_id,customer_id,channel,transcript
+1,C001,chat,"Hi, my internet has been cutting out every night around 8pm. It's really hurting my remote work."
+2,C002,email,"The latest firmware update bricked my router. Now none of the lights turn on and I can't connect."
+3,C003,phone,"Billing keeps charging me for premium support even though I cancelled last month. Please fix this."
+4,C004,chat,"I love the new mobile app but the notifications arrive hours late and sometimes never."
+5,C005,email,"Support was kind but they keep sending scripted responses without solving my login lockout."
